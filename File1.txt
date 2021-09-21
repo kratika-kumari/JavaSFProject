@@ -1,2 +1,3 @@
 this is my file 1...
- ia m adding vhnage to fix bug1
+ :::ia m adding vhnage to fix bug1
+teammate chnage for bug itme 3
